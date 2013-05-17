@@ -1,6 +1,5 @@
 #include "ros/ros.h"
 #include "geometry_msgs/Twist.h"
-#include "cmvision/Blobs.h"
 #include "sensor_msgs/LaserScan.h"
 #include <stdio.h>
 #include <vector>
